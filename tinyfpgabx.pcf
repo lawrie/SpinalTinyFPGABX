@@ -1,0 +1,27 @@
+set_io clk B2
+
+set_io -nowarn io_leds[0] H9
+set_io -nowarn io_leds[1] D9
+set_io -nowarn io_leds[2] D8
+set_io -nowarn io_leds[3] C9
+set_io -nowarn io_leds[4] A9
+set_io -nowarn io_leds[5] B8
+set_io -nowarn io_leds[6] A8
+set_io -nowarn io_leds[7] B7
+
+set_io -nowarn io_switchs[0] H2
+set_io -nowarn io_switchs[1] J1
+set_io -nowarn io_switchs[2] H1
+set_io -nowarn io_switchs[3] G2
+set_io -nowarn io_switchs[4] E1
+set_io -nowarn io_switchs[5] E2
+set_io -nowarn io_switchs[6] D1
+set_io -nowarn io_switchs[7] D2
+
+set_io -nowarn io_uart_rxd A1
+set_io -nowarn io_uart_txd A2
+
+set_io -nowarn io_button A6
+
+set_io -nowarn io_led B3
+
